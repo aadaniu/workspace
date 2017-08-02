@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/FileInputStram.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/HelloWorld.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/SerialTest.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/SingleEnum.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/SingleHungry.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/Singlelazy.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/Singlelazy2.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/Singlelazy3.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/Singlelazy4.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/Test01.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/sing/Test02.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/test01/Student.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/test01/StudentDemo.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/yxxy/test01/dog.java" charset="GB2312" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
